@@ -1,0 +1,18 @@
+[ 
+    { 
+       "subCategory": "Long Bottoms",
+       "id": 1
+    },
+    {
+        "subCategory": "Shorts",
+        "id": 2
+    },
+    {
+        "subCategory": "Alternative Lengths",
+        "id": 3
+    },
+    {
+        "subCategory": "Skirts",
+        "id": 4
+    }
+ ]

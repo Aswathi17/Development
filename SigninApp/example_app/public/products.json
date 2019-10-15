@@ -1,0 +1,58 @@
+[ 
+    { 
+       "productCode":"16160001",
+       "name":"Almond Toe Court Shoes, Patent Black",
+       "category":"Womens Footwear",
+       "price":99,
+       "stock":5
+    },
+    { 
+       "productCode":"16160002",
+       "name":"Suede Shoes, Blue",
+       "category":"Womens Footwear",
+       "price":42,
+       "stock":4
+    },
+    { 
+       "productCode":"16160003",
+       "name":"Leather Driver Saddle Loafers, Tan",
+       "category":"Mens Footwear",
+       "price":2222,
+       "stock":12
+    },
+    { 
+       "productCode":16160004,
+       "name":"Flip Flops, Red",
+       "category":"Mens Footwear",
+       "price":12,
+       "stock":6
+    },
+    { 
+       "productCode":16160005,
+       "name":"Flip Flops, Blue",
+       "category":"Mens Footwear",
+       "price":19,
+       "stock":0
+    },
+    { 
+       "productCode":16160006,
+       "name":"Gold Button Cardigan, Black",
+       "category":"Womens Casualwear",
+       "price":167,
+       "stock":6
+    },
+    { 
+       "productCode":16160007,
+       "name":"Cotton Shorts, Medium Red",
+       "category":"Womens Casualwear",
+       "price":30,
+       "stock":5
+    },
+    { 
+       "productCode":16160008,
+       "name":"Fine Stripe Short Shirt, Grey",
+       "category":"Mens Casualwear",
+       "price":49.99,
+       "stock":9
+    }
+ ]

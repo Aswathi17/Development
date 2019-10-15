@@ -1,0 +1,22 @@
+[ 
+    { 
+       "seasonType": "Levis S1 2019 Female Bottoms",
+       "id": 1
+    },
+    {
+        "seasonType": "Levis S1 2019 Female Tops",
+        "id": 2
+    },
+    {
+        "seasonType": "Levis S1 2019 Male Bottoms",
+        "id": 3
+    },
+    {
+        "seasonType": "Levis S1 2019 Male Tops",
+        "id": 4
+    },
+    {
+        "seasonType": "Levis S3 2019 Female Bottoms",
+        "id": 5
+    }
+ ]
